@@ -1,5 +1,0 @@
-{{#user}}
-Name : Aman Sharma
-Skills: C++, Python, Coding, AWS, Gits, Jenkins, Linux, HTML, CSS
-Email: sharma.aman.sa456@gmail.com
-{{/user}}
